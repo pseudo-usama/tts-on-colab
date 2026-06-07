@@ -1,0 +1,6 @@
+# python=3.13.13
+kokoro==0.9.4
+soundfile==0.14.0
+fastapi==0.136.3
+uvicorn==0.49.0
+requests==2.34.2
