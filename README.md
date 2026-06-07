@@ -1,5 +1,7 @@
 # TTS on Colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pseudo-usama/tts-on-colab/blob/main/colab.ipynb)
+
 A small text-to-speech HTTP server that runs comfortably on Google Colab's free GPU, powered by [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M). Send it a list of narration strings, get back WAV audio and SRT subtitles per scene.
 
 ## Run on Colab
